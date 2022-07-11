@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
+    <loc>https://korea-trip.github.io/sitemap/sitemap_Incheon.xml.gz</loc>
+    <lastmod>2022-07-11T12:48:09.375Z</lastmod>
+  </sitemap>
+  <sitemap>
     <loc>https://korea-trip.github.io/sitemap/sitemap_Seoul.xml.gz</loc>
-    <lastmod>2022-07-11T10:44:46.939Z</lastmod>
+    <lastmod>2022-07-11T12:48:09.375Z</lastmod>
   </sitemap>
   <sitemap>
     <loc>https://korea-trip.github.io/sitemap/sitemap_directory.xml.gz</loc>
-    <lastmod>2022-07-11T10:44:46.939Z</lastmod>
+    <lastmod>2022-07-11T12:48:09.375Z</lastmod>
   </sitemap>
 </sitemapindex>

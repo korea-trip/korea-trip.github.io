@@ -8,15 +8,7 @@
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
 >
   <url>
-    <loc>https://korea-trip.github.io</loc>
+    <loc>https://korea-trip.github.io/Incheon/2022-07-11-1657543591392</loc>
     <lastmod>2022-07-11T12:48:09.348Z</lastmod>
-  </url>
-  <url>
-    <loc>https://korea-trip.github.io/Incheon</loc>
-    <lastmod>2022-07-11T12:48:09.348Z</lastmod>
-  </url>
-  <url>
-    <loc>https://korea-trip.github.io/Seoul</loc>
-    <lastmod>2022-07-10T23:05:56.701Z</lastmod>
   </url>
 </urlset>
